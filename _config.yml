@@ -21,11 +21,12 @@ repository               : "kafkayu/kafkayu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "photo.jpg"
   name             : "Jiahong Yu"
+  name2            : "俞嘉鸿"
+  avatar           : "photo.jpg"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "undergrad student at SCUT"
+  location         : "Online"
   employer         : "South China University of Technology"
   uri              : # URL
   email            : "jiahongyugz@gmail.com" 
