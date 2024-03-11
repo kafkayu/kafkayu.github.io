@@ -30,8 +30,6 @@ Ziqian Zeng, *<ins>Jiahong Yu</ins>*, Qianshi Pang, Zihao Wang, Huiping Zhuang, 
 
 
 
-
-
 ## 🎖 Awards
 
 - *2023.12* National Scholarship 
