@@ -19,7 +19,7 @@ I am generally interested in natural language processing and machine learning .
 **Chimera: A Lossless Decoding Method for Accelerating Large Language Models Inference by Fusing all Tokens**
 
 Ziqian Zeng, *<ins>Jiahong Yu</ins>*, Qianshi Pang, Zihao Wang, Huiping Zhuang, Cen Chen
-https://arxiv.org/abs/2402.15758
+
 
 <p><a href="https://arxiv.org/abs/2402.15758"><strong>Paper</strong></a> | <a href="https://github.com/kafkayu/Chimera"></a></p>
 
