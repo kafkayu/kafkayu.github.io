@@ -26,8 +26,7 @@ Ziqian Zeng, *<ins>Jiahong Yu</ins>*, Qianshi Pang, Zihao Wang, Huiping Zhuang, 
 
 
 - **Abstract**: In this paper, we study a lossless decoding method based on the speculative decoding .
-</div>
-</div>
+
 
 
 
@@ -38,6 +37,7 @@ Ziqian Zeng, *<ins>Jiahong Yu</ins>*, Qianshi Pang, Zihao Wang, Huiping Zhuang, 
 - *2023.12* National Scholarship 
 - *2023.3* Mathematical Contest In Modeling (MCM) Finalist
 - *2022.10* Contemporary Undergraduate Mathematical Contest in Modeling(CUMCM) Second Prize
+  
 ## 📖 Education
 
 - *2021.09 - * Undergraduate, Information Security, [South China University of Technology](https://www.scut.edu.cn/new/), GuangZhou, China.
